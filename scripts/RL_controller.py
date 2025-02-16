@@ -22,7 +22,7 @@ def printQ():
     for m in range(16):
         print(Q[m])
 
-printQ()
+
 
 # define method for executing actions
 def do_action(action_index):
